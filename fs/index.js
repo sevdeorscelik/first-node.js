@@ -70,7 +70,8 @@ mkdir('uploads/img', { recursive: true }, (err) => {
 
 // KLOSÖRLER SILMEK ==========================================================
 /*
-rmdir('silinecek', { recursive: true }, (err) => {
+rmdir('silinecek.txt
+', { recursive: true }, (err) => {
     if (err) {
         console.log(err);
         console.log('klasörler silinemedi');
