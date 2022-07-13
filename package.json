@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevdeorscelik/first-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevdeorscelik/first-node.js/issues"
+  },
+  "homepage": "https://github.com/sevdeorscelik/first-node.js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
