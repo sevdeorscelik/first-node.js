@@ -1,8 +1,7 @@
 //const fs = require('fs') --> eski versiyon
 
 //yeni versiyon calistirabilmek icin önce package.json dosyasi olusturduk ve icine type:module ekledik. yokda calismiyor
-import { appendFile, readFile, unlink, mkdir, rmdir } from 'fs';
-import { writeFile } from 'fs';
+import { appendFile, readFile, writeFile, unlink, mkdir, rmdir } from 'fs';
 
 //DOSYA OKUMA==========================================================
 
